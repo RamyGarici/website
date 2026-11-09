@@ -1,0 +1,5 @@
+Mets tes photos ici en les nommant : 1.jpg, 2.jpg, 3.jpg ... jusqu'a 53.jpg
+(.png, .jpeg et .webp marchent aussi).
+Le cadre n°N affiche la photo N. Le cadre s'adapte au format de la photo.
+Les titres se reglent dans index.html (objet TITLES en haut du script).
+Lance ensuite le musee avec lancer.bat.
